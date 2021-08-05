@@ -5,5 +5,5 @@ You can click the Preview link to take a look at your changes.
 this is simple python script for add views on youtube
 --->
 
-usage : python3 video_play.py
+usage : python3 video_play.py </br>
   video url : "your video url "
